@@ -1,7 +1,6 @@
 ### Hi there I'm Rybakov Vladislav👋
-![catwalk](https://github.com/rybakov1/rybakov1/assets/99315854/5e7b6498-934d-41a7-8e2a-337a4cb401f8)
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <!--
 **rybakov1/rybakov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
